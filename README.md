@@ -32,14 +32,14 @@ Here, we found out that
 The *accuracy* of **Decision Tree** : `0.9473`
 
 * Classification Report of Decision Tree Model:
-               precision    recall  f1-score   support
-
-           0       0.93      0.93      0.93        43
-           1       0.96      0.96      0.96        71
-
-    accuracy                           0.95       114
-   macro avg       0.94      0.94      0.94       114
-weighted avg       0.95      0.95      0.95       114
+*               precision    recall  f1-score   support
+*
+*           0       0.93      0.93      0.93        43
+*           1       0.96      0.96      0.96        71
+*
+*    accuracy                           0.95       114
+*   macro avg       0.94      0.94      0.94       114
+*weighted avg       0.95      0.95      0.95       114
 
 Then at last, we use the seaborn and matplotlib.pyplot library in order to evaluate the confusion matrix of the applied model!
 
