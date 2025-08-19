@@ -45,8 +45,8 @@ weighted avg       0.95      0.95      0.95       114
 Then at last, we use the seaborn and matplotlib.pyplot library in order to evaluate the confusion matrix of the applied model!
 
 ## Libraries Used
- We used several libraries which include
-           numpy, pandas, matplotlib, seaborn, scikit-learn
+                 We used several libraries which include
+                     numpy, pandas, matplotlib, seaborn, scikit-learn
 
 ## How to Run 
 1.  **Clone the repository** (if you haven't already):
